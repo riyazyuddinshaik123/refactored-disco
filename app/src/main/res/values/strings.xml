@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SchoolRecords</string>
+    <string name="HW">Hello Android!</string>
 </resources>
